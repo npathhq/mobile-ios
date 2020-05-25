@@ -3,7 +3,7 @@
 
 # Mobile iOS
 
-`mobile-ios` is a functional prototype iOS mobile app of NPath
+`mobile-ios` is a functional iOS prototype app of NPath
 
 
 ## 🎩 Acknowledgement
