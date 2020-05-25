@@ -8,6 +8,6 @@
 
 ## 🎩 Acknowledgement
 
-Project Owner: [Kevin Pham](https://github.com/PatriciaCR)
+Project Owner: [Patricia Caceres](https://github.com/PatriciaCR)
 
 Stakeholder: [Nhat Nguyen](https://github.com/nattwasm)
